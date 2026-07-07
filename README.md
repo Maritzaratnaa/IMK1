@@ -42,7 +42,7 @@ Berikut adalah dokumentasi tampilan antarmuka dan *gameplay* dari game ini:
 ## Cara Menjalankan Game (Build Version)
 
 Jika ingin memainkan game ini secara langsung tanpa melalui Unity Editor:
-1. Unduh folder hasil build proyek ini.
+1. Unduh folder  **Build**.
 2. Pastikan file `.exe` dan folder `_Data` berada di dalam satu direktori yang sama.
-3. Jalankan file `IMK1-main.exe`.
+3. Jalankan file `Build.exe`.
 4. Gunakan **Klik Kiri** untuk menembak target bola merah yang muncul secara acak.
